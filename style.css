@@ -36,4 +36,13 @@ body{
         width 500px;
         font-family: fantasy;
     }
- 
+a:link{
+        color:white;
+}
+a:visited{
+        color:white;
+}
+
+.origami:hover{
+        transform: scale(1.2);
+}
